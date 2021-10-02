@@ -4,7 +4,9 @@ public class Linked_List {
 	private class Node {
 		int data;
 		Node next;
-		
+		public node(){
+			
+		}
 		public Node(int data) {
 			this.data=data;
 		}
